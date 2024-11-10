@@ -1,0 +1,12 @@
+# Blender 4.2.1 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl MKX_iOS_OUT_SYZ_NNO_B
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.025000 0.025000 0.025000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd MK-X_iOS_OUTWORLD_Syzoth_Reptile_Nimble-Noxious_Body_D.png
