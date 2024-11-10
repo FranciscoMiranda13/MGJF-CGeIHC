@@ -1,0 +1,150 @@
+KeyFrame[0].movBalon_z = 0.0f;
+KeyFrame[0].movBalon_y = 0.0f;
+KeyFrame[0].giroBalon = 0.0f;
+KeyFrame[0].giroPierna01 = 0.0f;
+KeyFrame[0].giroPierna02 = 0.0f;
+
+KeyFrame[1].movBalon_z = 0.0f;
+KeyFrame[1].movBalon_y = 0.0f;
+KeyFrame[1].giroBalon = 0.0f;
+KeyFrame[1].giroPierna01 = 45.0f;
+KeyFrame[1].giroPierna02 = 0.0f;
+
+KeyFrame[2].movBalon_z = 0.0f;
+KeyFrame[2].movBalon_y = 0.0f;
+KeyFrame[2].giroBalon = 0.0f;
+KeyFrame[2].giroPierna01 = 45.0f;
+KeyFrame[2].giroPierna02 = 45.0f;
+
+KeyFrame[3].movBalon_z = 0.0f;
+KeyFrame[3].movBalon_y = 0.0f;
+KeyFrame[3].giroBalon = 0.0f;
+KeyFrame[3].giroPierna01 = 0.0f;
+KeyFrame[3].giroPierna02 = 45.0f;
+
+KeyFrame[4].movBalon_z = 0.0f;
+KeyFrame[4].movBalon_y = 0.0f;
+KeyFrame[4].giroBalon = 0.0f;
+KeyFrame[4].giroPierna01 = 0.0f;
+KeyFrame[4].giroPierna02 = 0.0f;
+
+KeyFrame[5].movBalon_z = 10.0f;
+KeyFrame[5].movBalon_y = 10.0f;
+KeyFrame[5].giroBalon = 45.0f;
+KeyFrame[5].giroPierna01 = -45.0f;
+KeyFrame[5].giroPierna02 = 0.0f;
+
+KeyFrame[6].movBalon_z = 20.0f;
+KeyFrame[6].movBalon_y = 20.0f;
+KeyFrame[6].giroBalon = 90.0f;
+KeyFrame[6].giroPierna01 = 0.0f;
+KeyFrame[6].giroPierna02 = 0.0f;
+
+KeyFrame[7].movBalon_z = 30.0f;
+KeyFrame[7].movBalon_y = 30.0f;
+KeyFrame[7].giroBalon = 135.0f;
+KeyFrame[7].giroPierna01 = 0.0f;
+KeyFrame[7].giroPierna02 = 0.0f;
+
+KeyFrame[8].movBalon_z = 40.0f;
+KeyFrame[8].movBalon_y = 40.0f;
+KeyFrame[8].giroBalon = 180.0f;
+KeyFrame[8].giroPierna01 = 0.0f;
+KeyFrame[8].giroPierna02 = 0.0f;
+
+KeyFrame[9].movBalon_z = 50.0f;
+KeyFrame[9].movBalon_y = 30.0f;
+KeyFrame[9].giroBalon = 225.0f;
+KeyFrame[9].giroPierna01 = 0.0f;
+KeyFrame[9].giroPierna02 = 0.0f;
+
+KeyFrame[10].movBalon_z = 60.0f;
+KeyFrame[10].movBalon_y = 20.0f;
+KeyFrame[10].giroBalon = 270.0f;
+KeyFrame[10].giroPierna01 = 0.0f;
+KeyFrame[10].giroPierna02 = 0.0f;
+
+KeyFrame[11].movBalon_z = 70.0f;
+KeyFrame[11].movBalon_y = 10.0f;
+KeyFrame[11].giroBalon = 315.0f;
+KeyFrame[11].giroPierna01 = 0.0f;
+KeyFrame[11].giroPierna02 = 0.0f;
+
+KeyFrame[12].movBalon_z = 80.0f;
+KeyFrame[12].movBalon_y = 0.0f;
+KeyFrame[12].giroBalon = 360.0f;
+KeyFrame[12].giroPierna01 = 0.0f;
+KeyFrame[12].giroPierna02 = 0.0f;
+
+KeyFrame[13].movBalon_z = 90.0f;
+KeyFrame[13].movBalon_y = 10.0f;
+KeyFrame[13].giroBalon = 405.0f;
+KeyFrame[13].giroPierna01 = 0.0f;
+KeyFrame[13].giroPierna02 = 0.0f;
+
+KeyFrame[14].movBalon_z = 100.0f;
+KeyFrame[14].movBalon_y = 20.0f;
+KeyFrame[14].giroBalon = 450.0f;
+KeyFrame[14].giroPierna01 = 0.0f;
+KeyFrame[14].giroPierna02 = 0.0f;
+
+KeyFrame[15].movBalon_z = 90.0f;
+KeyFrame[15].movBalon_y = 10.0f;
+KeyFrame[15].giroBalon = 405.0f;
+KeyFrame[15].giroPierna01 = 0.0f;
+KeyFrame[15].giroPierna02 = 0.0f;
+
+KeyFrame[16].movBalon_z = 80.0f;
+KeyFrame[16].movBalon_y = 0.0f;
+KeyFrame[16].giroBalon = 360.0f;
+KeyFrame[16].giroPierna01 = 0.0f;
+KeyFrame[16].giroPierna02 = 0.0f;
+
+KeyFrame[17].movBalon_z = 70.0f;
+KeyFrame[17].movBalon_y = 10.0f;
+KeyFrame[17].giroBalon = 315.0f;
+KeyFrame[17].giroPierna01 = 0.0f;
+KeyFrame[17].giroPierna02 = 0.0f;
+
+KeyFrame[18].movBalon_z = 60.0f;
+KeyFrame[18].movBalon_y = 20.0f;
+KeyFrame[18].giroBalon = 270.0f;
+KeyFrame[18].giroPierna01 = 0.0f;
+KeyFrame[18].giroPierna02 = 0.0f;
+
+KeyFrame[19].movBalon_z = 50.0f;
+KeyFrame[19].movBalon_y = 10.0f;
+KeyFrame[19].giroBalon = 225.0f;
+KeyFrame[19].giroPierna01 = 0.0f;
+KeyFrame[19].giroPierna02 = 0.0f;
+
+KeyFrame[20].movBalon_z = 40.0f;
+KeyFrame[20].movBalon_y = 0.0f;
+KeyFrame[20].giroBalon = 180.0f;
+KeyFrame[20].giroPierna01 = 0.0f;
+KeyFrame[20].giroPierna02 = 0.0f;
+
+KeyFrame[21].movBalon_z = 30.0f;
+KeyFrame[21].movBalon_y = 10.0f;
+KeyFrame[21].giroBalon = 135.0f;
+KeyFrame[21].giroPierna01 = 0.0f;
+KeyFrame[21].giroPierna02 = 0.0f;
+
+KeyFrame[22].movBalon_z = 20.0f;
+KeyFrame[22].movBalon_y = 0.0f;
+KeyFrame[22].giroBalon = 90.0f;
+KeyFrame[22].giroPierna01 = 0.0f;
+KeyFrame[22].giroPierna02 = 0.0f;
+
+KeyFrame[23].movBalon_z = 10.0f;
+KeyFrame[23].movBalon_y = 0.0f;
+KeyFrame[23].giroBalon = 45.0f;
+KeyFrame[23].giroPierna01 = 0.0f;
+KeyFrame[23].giroPierna02 = 0.0f;
+
+KeyFrame[24].movBalon_z = 0.0f;
+KeyFrame[24].movBalon_y = 0.0f;
+KeyFrame[24].giroBalon = 0.0f;
+KeyFrame[24].giroPierna01 = 0.0f;
+KeyFrame[24].giroPierna02 = 0.0f;
+
